@@ -1,2 +1,2 @@
 Spotify - Clone<br>
-A Frontend Project 
+A Frontend Project - Html, CSS, Javascript
